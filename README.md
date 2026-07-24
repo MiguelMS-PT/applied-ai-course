@@ -23,6 +23,19 @@ The goal is to develop the technical skills required to build real-world AI syst
 - Git and GitHub configured
 - First Python program executed
 
+## Requirements
+
+- Python 3.12
+
+## Local setup
+
+Create and activate a virtual environment:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+
 ## Author
 
 Miguel — first-year Computer Engineering student.
